@@ -6,5 +6,7 @@
 6
 min sec
 sec min
+min
+sec
 9
 10
